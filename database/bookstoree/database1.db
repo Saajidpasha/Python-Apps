@@ -1,0 +1,7 @@
+import sqlite3
+
+#create a connection
+#create a cursor object
+#
+conn = sqlite.connect()
+cur = conn.cursor()

@@ -1,0 +1,17 @@
+after coding a website hosting on to heroku cloud
+1.create a separate folder and transfer all files into it
+2.creating a virtual environment
+3.pip install virtualenv
+4.python -m env virtual
+5.virtual/Scripts/python
+6.virtual/Scripts/pip install flask
+7.create an account in heroku download heroku belttool.
+8.using cmd type heroku login
+9.To create a new domain type heroku create domainName
+10.cd virtual\Scripts\pip freeze
+11.pip install gunicorn gunicorn is server
+12.create a procfile without any extension 
+13.create runtime.txt file
+14.git init
+15.git add .
+16.heroku git:remote --app appName
